@@ -8,6 +8,6 @@ O exercício pede para implementar uma classe MyCalculator que implemente a inte
 3. Funcionamento do método divisor_sum: Esse método deve calcular todos os divisores de n (por exemplo, os divisores de 6 são 1, 2, 3 e 6) e retornar a soma desses divisores. No caso de n = 6, o resultado seria 1 + 2 + 3 + 6 = 12.
 
 ## Exemplo:
-Para uma entrada 6, a saída esperada é:
+Para uma entrada 6, a saída esperada é:\
 ![imagens/imagem.png](imagens/imagem.png)
 
