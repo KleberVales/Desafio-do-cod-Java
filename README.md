@@ -9,3 +9,5 @@ O exercício pede para implementar uma classe MyCalculator que implemente a inte
 
 ## Exemplo:
 Para uma entrada 6, a saída esperada é:
+![imagens/imagem.png](imagens/imagem.png)
+
